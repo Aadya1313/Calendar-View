@@ -40,7 +40,3 @@ Welcome to your **interactive wall calendar**! This project brings a visually st
 - **Month-specific imagery:** UI palette changes subtly for each month to enhance aesthetics.
 
 ---
-
-1. **Clone the repo:**
-```bash
-git clone https://github.com/Aadya1313/Calendar-View.git
