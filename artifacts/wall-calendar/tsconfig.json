@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "extends": "../../tsconfig.base.json",
   "include": ["src/**/*"],
   "exclude": ["node_modules", "build", "dist", "**/*.test.ts"],
@@ -18,20 +17,6 @@
   "references": [
     {
       "path": "../../lib/api-client-react"
-=======
-  "extends": "./tsconfig.base.json",
-  "compileOnSave": false,
-  "files": [],
-  "references": [
-    {
-      "path": "./lib/db"
-    },
-    {
-      "path": "./lib/api-client-react"
-    },
-    {
-      "path": "./lib/api-zod"
->>>>>>> 8351038536d1deecc9d522dd4cf3fc033e6f4068
     }
   ]
 }
