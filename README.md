@@ -40,3 +40,21 @@ Welcome to your **interactive wall calendar**! This project brings a visually st
 - **Month-specific imagery:** UI palette changes subtly for each month to enhance aesthetics.
 
 ---
+
+Run Locally
+
+Follow these steps to get the Interactive Wall Calendar running on your machine:
+
+1. Clone the repository
+git clone https://github.com/Aadya1313/Calendar-View.git
+cd Calendar-View
+
+3. Install dependencies
+
+Make sure you have Node.js installed. Then run:
+npm install
+
+3. Start the development server
+npm run dev
+This will start a local server (Vite) and give you a URL like http://localhost:5173.
+Open this URL in your browser to see and interact with the calendar.
