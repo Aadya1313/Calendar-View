@@ -60,6 +60,7 @@ This will start a local server (Vite) and give you a URL like http://localhost:5
 Open this URL in your browser to see and interact with the calendar.
  <img width="1883" height="910" alt="image" src="https://github.com/user-attachments/assets/c34a7190-2439-4478-a41d-6b63783ad915" />
 
- ![1000138690](https://github.com/user-attachments/assets/434cbe58-8743-4475-8924-c828c0167445)
+<img width="1873" height="902" alt="image" src="https://github.com/user-attachments/assets/95a15a45-4670-4625-9098-ff161b5724b6" />
+
 
 
